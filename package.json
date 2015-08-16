@@ -1,0 +1,18 @@
+{
+  "name": "toIPAConverter",
+  "version": "0.0.0",
+  "description": "API for English => IPA conversion",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.13.3",
+    "promise": "~7.0.4",
+    "follow-redirects": "0.0.6",
+    "mongodb": "~2.0.41"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lxxxvi",
+  "license": "BSD-2-Clause"
+}
